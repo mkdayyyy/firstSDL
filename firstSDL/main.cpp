@@ -9,7 +9,8 @@ int main(int argc, char *argv[]) {
 	SDL_RenderPresent(renderer);
 	SDL_Delay(3000);
 	//test gitttt
-	//hello everybody
+	//hello everybody 
+	//test pull
 
 	return 0;
 }
